@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on technical documentation for anything and everything!
 - 📫 You can reach me at brendan.amerman@gmail.com
 
+<a href="https://www.linkedin.com/in/brendan-amerman-875459123/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
+
 <!---
 bamerman/bamerman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
