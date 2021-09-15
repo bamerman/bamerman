@@ -2,7 +2,6 @@
 - 👀 I’m a technical writer whose interests include composing, reading non-fiction, and playing Old School RuneScape. In addition to improving documentation in these spaces, I'm passionate about docs in the coffee and fitness industries. 
 - 🌱 I’m currently learning API documentation. 
 - 💞️ I’m looking to collaborate on technical documentation for anything and everything!
-- 📫 You can reach me at brendan.amerman@gmail.com
 
 <a href="https://www.linkedin.com/in/brendan-amerman-875459123/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
 
